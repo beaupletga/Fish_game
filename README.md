@@ -12,13 +12,12 @@ I first stack several fishes manually on top of the other and downsample each of
 
 ![Superposition of the fish](/Presentation2/Images/fish_superposition.png)
 
-Then I compute the join tree and remove branches from the join tree until n branches are left (where n is a number of features selected by the user). I didn't colored each different part differently because the separation between the parts is quite obvious.
-
-Separation in 35 parts: 
+Then I compute the join tree and remove branches from the join tree until n branches are left (where n is a number of features selected by the user). I didn't colored each different part differently because the separation between the parts is quite obvious.<br/>
+Separation in 35 parts: <br/>
 ![Separation in 35 parts](/Presentation2/Images/35_fishes_separation.png)
-Separation in 3 parts:
+Separation in 3 parts:<br/>
 ![Separation in 3 parts](/Presentation2/Images/3_fishes_separation.png)
-Separation in 2 parts:
+Separation in 2 parts:<br/>
 ![Separation in 2 parts](/Presentation2/Images/2_fishes_separation.png)
 
 
