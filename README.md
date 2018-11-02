@@ -13,9 +13,11 @@ I first stack several fishes manually on top of the other and downsample each of
 ![Superposition of the fish](/Presentation2/Images/fish_superposition.png)
 
 Then I compute the join tree and remove branches from the join tree until n branches are left (where n is a number of features selected by the user).
-
+Separation in 35 parts: 
 ![Separation in 35 parts](/Presentation2/Images/35_fishes_separation.png)
+Separation in 3 parts:
 ![Separation in 3 parts](/Presentation2/Images/3_fishes_separation.png)
+Separation in 2 parts:
 ![Separation in 2 parts](/Presentation2/Images/2_fishes_separation.png)
 
 
@@ -40,12 +42,10 @@ Then I need to make it move the fin (nageoire). In order to do that I use to key
 
 Thus, we know how to make the fish move (translation and rotation) and we know how to make the fish move his fin. Our animation should look like something realistic !
 
-<video src="/Presentation2/Images/fish_moving.mp4" width="320" height="200" controls preload></video>
-
-The last part is to make an animated scene. Two choices are possible : a random swim of the fish (quite lame), or make a game with it (like the snale game for instance).
+The last part is to make an animated scene. Two choices are possible : a random swim of the fish (quite lame), or make a game with it (like the snake game for instance).
 I choose the last solution and made something similar to the snake game. Then I added some texture to the floor and the background.
 
-<video src="/Presentation2/Images/fish_game.mp4" width="320" height="200" controls preload></video>
+![Alt Text](/Presentation2/Images/fish_game.gif)
 
 ## How to play the game
 
