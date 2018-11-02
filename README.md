@@ -49,7 +49,7 @@ I choose the last solution and made something similar to the snake game. Then I 
 
 ## How to play the game
 
-It's really simple to play the game. You just have to run the following python command : python -m SimpleHTTPServe.
-Then run into your browser the file page.html
+Run the following python command (you need it to load file using javascript): python -m SimpleHTTPServe
+Then run into your browser the file "page.html" which is into the Fish_game folder.
 
 
